@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/kinstonwithoutg" target="blank"><img src="https://img.shields.io/twitter/follow/kinstonwithoutg?logo=twitter&style=for-the-badge" alt="kinstonwithoutg" /></a> </p>
 
-- 🔭 I’m currently working on Self-Driving Labs [(Sterling Baird's demo)](https://github.com/sparks-baird/self-driving-lab-demo)
+- 🔭 I’m currently working on building modular Self-Driving Labs [(Sterling Baird's demo)](https://github.com/sparks-baird/self-driving-lab-demo)
 
 - 🌱 I’m currently **PhD student in Materials Science and Engineering focusing on Materials Informatics**
 
-- 👯 I’m looking to collaborate on **Self-Driving Lab Decision and Policy Design Project**
+- 👯 I’m looking to collaborate on **Self-Driving Lab Decision and Policy Design**
 
-- 🤝 I’m looking for help with **Mlti-Scaled-Fidelity Materials Modeling**
+- 🤝 I’m looking for help with 
 
 - 💬 Ask me about **Self-Driving Lab Scalability**
 
-- 📫 How to reach me **kinston.ackolfwong@utah.edu / kinston@csail.mit.edu**  <- this might not work anymore
+- 📫 How to reach me **kinston.ackolf.wong@utah.edu / kinston@csail.mit.edu**  <- this might not work anymore
 
 - ⚡ Fun fact **I once was an admin of a meme page that has 1M+ followers**
 
