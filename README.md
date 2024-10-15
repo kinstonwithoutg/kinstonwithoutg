@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building modular and distributed Self-Driving Labs [(Sterling Baird's demo)](https://github.com/sparks-baird/self-driving-lab-demo)
 
-- 🌱 I’m currently **PhD student in Materials Science and Engineering focusing on Materials Informatics**
+- 🌱 I’m currently **PhD student in Materials Science and Engineering focusing on Materials Informatics**  [(Project page)](https://haikusdl.kinstonackolf.info/)
 
 - 👯 I’m looking to collaborate on **SDLs DB Policy Design**
 
