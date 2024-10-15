@@ -14,19 +14,19 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Kinston Ackölf</h1>
-<h3 align="center">If you see me in a paper, usually it will be under "K. Wong" or "et al."</h3>
+<h3 align="center">If you see me in a paper, it might be under "K. Wong" or "et al."</h3>
 
 <p align="left"> <a href="https://twitter.com/kinstonwithoutg" target="blank"><img src="https://img.shields.io/twitter/follow/kinstonwithoutg?logo=twitter&style=for-the-badge" alt="kinstonwithoutg" /></a> </p>
 
-- 🔭 I’m currently working on building modular Self-Driving Labs [(Sterling Baird's demo)](https://github.com/sparks-baird/self-driving-lab-demo)
+- 🔭 I’m currently working on building modular and distributed Self-Driving Labs [(Sterling Baird's demo)](https://github.com/sparks-baird/self-driving-lab-demo)
 
 - 🌱 I’m currently **PhD student in Materials Science and Engineering focusing on Materials Informatics**
 
-- 👯 I’m looking to collaborate on **Self-Driving Lab Decision and Policy Design**
+- 👯 I’m looking to collaborate on **SDLs DB Policy Design**
 
-- 🤝 I’m looking for help with 
+- 🤝 I’m looking for help with **Building physical parts for SDLs**
 
-- 💬 Ask me about **Self-Driving Lab Scalability**
+- 💬 Ask me about **Distributed SDLs and Scalability**
 
 - 📫 How to reach me **kinston.ackolf.wong@utah.edu / kinston@csail.mit.edu**  <- this might not work anymore
 
